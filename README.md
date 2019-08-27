@@ -1,11 +1,4 @@
 
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
 ### COP1500-project-1
 Goals
 Complete the Python for Everybody Specialization
