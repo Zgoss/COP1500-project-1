@@ -46,7 +46,7 @@ Week:
 11.  Graduation and work on independent program (2 hours)
 12.  Complete independent program (2 hours)
 ### Logs
-- week one: completed why we programed - 3+hrs
+- week one: completed why we programed - 3+hrs. Learned the very basics and fundamentals of programming. Was taught how to install and use python at a beginner level.
 - week two:
 - week three:
 - week four:
