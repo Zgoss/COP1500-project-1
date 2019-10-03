@@ -46,8 +46,8 @@ Week:
 11.  Graduation and work on independent program (2 hours)
 12.  Complete independent program (2 hours)
 ### Logs
-- week one: completed why we programed - 3+hrs. Learned the very basics and fundamentals of programming. Was taught how to install and use python at a beginner level. Learned about variables, constants, prompts, and many other programming terms. Also learned about statements and functions.
-- week two:
-- week three:
+- week one: completed why we programed - 3+hrs. Learned the very basics and fundamentals of programming. Was taught how to install and use python at a beginner level. 
+- week two: completed variables and expressions - 2hrs. Learned about type and its' usefulness.Learned about variables, constants, prompts, and many other programming terms. Also learned about statements and functions.Also learned the importance of indenting or nesting
+- week three: completed conditional code - 3hrs. learned about comparision operators, sequential execution, and multi-way execution. . Also learned the try and except dynamic
 - week four:
 - week five:
