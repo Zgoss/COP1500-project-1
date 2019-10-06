@@ -36,8 +36,8 @@ Week:
 1.  Chapter One - Why we Program? (3 hours)
 2.  Chapter Two: Variables and Expressions (3 hours)
 3.  Chapter Three: Conditional Code (3 hours)
-4.  Chapter Five: Loops and Iteration (3 hours)
-5.  Chapter Four: Functions (2 hours)
+4.  Chapter Four: Functions (3 hours)
+5.  Chapter Five: Loops and Iteration (2 hours)
 6.  Chapter Seven: Files (3 hours)
 7.  Chapter Eight: Lists (3 hours)
 8.  Chapter Six: Strings (3 hours)
@@ -50,4 +50,4 @@ Week:
 - week two: completed variables and expressions - 3hrs. Learned about type and its' usefulness.Learned about variables, constants, prompts, and many other programming terms. Also learned about statements and functions.Also learned the importance of indenting or nesting
 - week three: completed conditional code - 3hrs. learned about comparision operators, sequential execution, and multi-way execution. . Also learned the try and except dynamic
 - week four: completed functions - 2hrs. Learned about functions such as def, max, and min. Also learned about arugments and parameters. The return function was also spoken about in this module.
-- week five:
+- week five: completed Loops and Iterations - 2hrs. Learned about the while and for loops. Also learned the break, continue, and none functions. I know the difference between definite loops and indefinite loops. I was shown how to count, add, and divide listed objects.
