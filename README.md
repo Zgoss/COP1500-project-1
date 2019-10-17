@@ -38,13 +38,13 @@ Week:
 3.  Chapter Three: Conditional Code (3 hours)
 4.  Chapter Four: Functions (3 hours)
 5.  Chapter Five: Loops and Iteration (2 hours)
-6.  Chapter Seven: Files (3 hours)
-7.  Chapter Eight: Lists (3 hours)
-8.  Chapter Six: Strings (3 hours)
+6.  Chapter Six: Strings (3 hours)
+7.  Chapter Seven: Files (3 hours) 
+8.  Chapter Eight: Lists (3 hours)
 9.  Chapter Nine: Dictionaries (3 hours)
-10.  Chapter Ten: Tuples (2 hours)
-11.  Graduation and work on independent program (2 hours)
-12.  Complete independent program (2 hours)
+10. Chapter Ten: Tuples (2 hours)
+11. Graduation and work on independent program (2 hours)
+12. Complete independent program (2 hours)
 ### Logs
 - week one: completed why we programed - 3+hrs. Learned the very basics and fundamentals of programming. Was taught how to install and use python at a beginner level. 
 - week two: completed variables and expressions - 3hrs. Learned about type and its' usefulness.Learned about variables, constants, prompts, and many other programming terms. Also learned about statements and functions.Also learned the importance of indenting or nesting
