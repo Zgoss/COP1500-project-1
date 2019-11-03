@@ -70,18 +70,20 @@ Week:
 
 - week six: Strings - 3 hrs. Learned about looking inside strings, searching a string, and looping through a string. Other concepts I have learned about are the len function, stripping whitespaces, prefixes, parsing and extraction, and slicing strings. The use of logical operators, string concatenation, index operators, string comparision, and the string library were also mentioned. 
 
-
+![Strings](https://user-images.githubusercontent.com/54559367/68092818-1f2d8000-fe5d-11e9-960b-2370f07005cb.PNG)
 
 - week seven: Files - 3hrs. Learned how to process and open files. I also learned about the newline character and how to read a whole file. Also learned how to search through a file, skipping certain lines in a file with continue, using in to select lines, and making prompts for a file.
 
-
+![Files](https://user-images.githubusercontent.com/54559367/68092819-218fda00-fe5d-11e9-9a34-34a47697bc04.PNG)
 
 - week eight: Lists - 3hrs. Learned about lists and list constants. Also learned how to concatenate, slice, and find something in a list. List methods such as append, sort, and split were also mentioned. I was taught that list are mutable and that you can double spilt a list.
 
-
+![Lists](https://user-images.githubusercontent.com/54559367/68092820-23599d80-fe5d-11e9-8949-15ac261fda2f.PNG)
 
 - week nine: Dictionaries - 3hrs. Learned about collections, how to count with dictionaries, and the get method. Also learned about dictionary literals, definite loops in dictionaries, and how to retrieve list of rays and values. How to sort dictionaries were also dicussed.
 
-
+![Dictionaries](https://user-images.githubusercontent.com/54559367/68092823-29e81500-fe5d-11e9-989e-068e18a1c28c.PNG)
 
 - week ten: Tuples - 2hrs. Learned the basics about tuples. I learned how to sort list of tuples and how comparisions work in tuples. Also, I learned that tuples are immutable unlike lists, and you can put tuples on the left hand side of an assignment statement.
+
+![Tuples](https://user-images.githubusercontent.com/54559367/68092824-2bb1d880-fe5d-11e9-8c66-53c53e0cb990.PNG)
