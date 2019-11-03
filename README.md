@@ -46,19 +46,19 @@ Week:
 11. Graduation and work on independent program (2 hours)
 12. Complete independent program (2 hours)
 ### Logs
-- week one: completed why we programed - 3+hrs. Learned the very basics and fundamentals of programming. Was taught how to install and use python at a beginner level.
+- week one: completed Why We Programed - 3+hrs. Learned the very basics and fundamentals of programming. Was taught how to install and use python at a beginner level.
 
 ![chapter 1](https://user-images.githubusercontent.com/54559367/66277815-a93ff400-e871-11e9-892d-0e05bb6e5dcf.PNG)
 
-- week two: completed variables and expressions - 3hrs. Learned about type and its' usefulness.Learned about variables, constants, prompts, and many other programming terms. Also learned about statements and functions.Also learned the importance of indenting or nesting
+- week two: completed Variables and Expressions - 3hrs. Learned about type and its' usefulness.Learned about variables, constants, prompts, and many other programming terms. Also learned about statements and functions.Also learned the importance of indenting or nesting
 
 ![chapter 2](https://user-images.githubusercontent.com/54559367/66277819-afce6b80-e871-11e9-9ab1-8dcd50ba0c02.PNG)
 
-- week three: completed conditional code - 3hrs. learned about comparision operators, sequential execution, and multi-way execution. . Also learned the try and except dynamic
+- week three: completed Conditional Code - 3hrs. learned about comparision operators, sequential execution, and multi-way execution. . Also learned the try and except dynamic
 
 ![Chapter 3](https://user-images.githubusercontent.com/54559367/66277822-b1982f00-e871-11e9-8eae-9825e014f100.PNG)
 
-- week four: completed functions - 2hrs. Learned about functions such as def, max, and min. Also learned about arugments and parameters. The return function was also spoken about in this module.
+- week four: completed Functions - 2hrs. Learned about functions such as def, max, and min. Also learned about arugments and parameters. The return function was also spoken about in this module.
 
 ![Chapter 4](https://user-images.githubusercontent.com/54559367/66277823-b2c95c00-e871-11e9-94cb-a8307b39e225.PNG)
 
