@@ -49,6 +49,7 @@ Week:
 - week one: completed Why We Programed - 3+hrs. Learned the very basics and fundamentals of programming. Was taught how to install and use python at a beginner level.
 
 ![chapter 1](https://user-images.githubusercontent.com/54559367/66277815-a93ff400-e871-11e9-892d-0e05bb6e5dcf.PNG)
+![chapter 1 2](https://user-images.githubusercontent.com/54559367/66277818-acd37b00-e871-11e9-9356-382367afb13d.PNG)
 
 - week two: completed Variables and Expressions - 3hrs. Learned about type and its' usefulness.Learned about variables, constants, prompts, and many other programming terms. Also learned about statements and functions.Also learned the importance of indenting or nesting
 
