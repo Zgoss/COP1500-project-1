@@ -51,11 +51,35 @@ Week:
 ![chapter 1](https://user-images.githubusercontent.com/54559367/66277815-a93ff400-e871-11e9-892d-0e05bb6e5dcf.PNG)
 
 - week two: completed variables and expressions - 3hrs. Learned about type and its' usefulness.Learned about variables, constants, prompts, and many other programming terms. Also learned about statements and functions.Also learned the importance of indenting or nesting
+
+![chapter 1 2](https://user-images.githubusercontent.com/54559367/66277818-acd37b00-e871-11e9-9356-382367afb13d.PNG)
+
 - week three: completed conditional code - 3hrs. learned about comparision operators, sequential execution, and multi-way execution. . Also learned the try and except dynamic
+
+![chapter 2](https://user-images.githubusercontent.com/54559367/66277819-afce6b80-e871-11e9-9ab1-8dcd50ba0c02.PNG)
+
 - week four: completed functions - 2hrs. Learned about functions such as def, max, and min. Also learned about arugments and parameters. The return function was also spoken about in this module.
+
+![Chapter 3](https://user-images.githubusercontent.com/54559367/66277822-b1982f00-e871-11e9-8eae-9825e014f100.PNG)
+
 - week five: completed Loops and Iterations - 2hrs. Learned about the while and for loops. Also learned the break, continue, and none functions. I know the difference between definite loops and indefinite loops. I was shown how to count, add, and divide listed objects.
+
+![Chapter 4](https://user-images.githubusercontent.com/54559367/66277823-b2c95c00-e871-11e9-94cb-a8307b39e225.PNG)
+
 - week six: Strings - 3 hrs. Learned about looking inside strings, searching a string, and looping through a string. Other concepts I have learned about are the len function, stripping whitespaces, prefixes, parsing and extraction, and slicing strings. The use of logical operators, string concatenation, index operators, string comparision, and the string library were also mentioned. 
+
+![Chapter 5](https://user-images.githubusercontent.com/54559367/66277824-b3fa8900-e871-11e9-86b4-44060c673dd3.PNG)
+
 - week seven: Files - 3hrs. Learned how to process and open files. I also learned about the newline character and how to read a whole file. Also learned how to search through a file, skipping certain lines in a file with continue, using in to select lines, and making prompts for a file.
+
+
+
 - week eight: Lists - 3hrs. Learned about lists and list constants. Also learned how to concatenate, slice, and find something in a list. List methods such as append, sort, and split were also mentioned. I was taught that list are mutable and that you can double spilt a list.
+
+
+
 - week nine: Dictionaries - 3hrs. Learned about collections, how to count with dictionaries, and the get method. Also learned about dictionary literals, definite loops in dictionaries, and how to retrieve list of rays and values. How to sort dictionaries were also dicussed.
+
+
+
 - week ten: Tuples - 2hrs. Learned the basics about tuples. I learned how to sort list of tuples and how comparisions work in tuples. Also, I learned that tuples are immutable unlike lists, and you can put tuples on the left hand side of an assignment statement.
