@@ -87,3 +87,7 @@ Week:
 - week ten: Tuples - 2hrs. Learned the basics about tuples. I learned how to sort list of tuples and how comparisions work in tuples. Also, I learned that tuples are immutable unlike lists, and you can put tuples on the left hand side of an assignment statement.
 
 ![Tuples](https://user-images.githubusercontent.com/54559367/68092824-2bb1d880-fe5d-11e9-8c66-53c53e0cb990.PNG)
+
+- week eleven: graduation - 2hrs. Professor Chuck's colleague, Curt Bonk, talked about his thoughts on other possible courses. He said that when choosing courses passion, purpose, persistence, playfuless, choice, commitment, and connections should be considered.
+
+![Graduation](https://user-images.githubusercontent.com/54559367/68836636-cfcf2700-0688-11ea-8cad-5af7428d16fe.PNG)
